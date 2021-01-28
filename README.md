@@ -8,8 +8,7 @@
   * 비번 : 랜덤
   * 이름 : 랜덤
   * 성별 : 랜덤 
-  ** 성별에 따라 랜덤 이름 할당 
-  *** - [이름](https://koreanname.me/) -
+    * 성별에 따라 랜덤 이름 할당 - [이름](https://koreanname.me/) -
 
 ---------------------------------------
 * 친구 추가 :two_men_holding_hands: :two_women_holding_hands:
